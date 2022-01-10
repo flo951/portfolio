@@ -13,8 +13,8 @@ function Navbar({ router }) {
   return (
     <nav className="navbar">
       <div className="container">
-        <Link href="/">
-          <a className="logo">Lutfhi.</a>
+        <Link href="https://github.com/flo951">
+          <a className="logo">@flo951</a>
         </Link>
 
         <ul className="nav-links">
