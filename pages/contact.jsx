@@ -19,7 +19,9 @@ function Contact() {
             </h1>
             <p className="description">Feel free to reach out to me</p>
             <ul className="contact-links">
-              <li className="contact-item">Email:</li>
+              <li className="contact-item">
+                Email: florian.goerlich95@gmail.com
+              </li>
             </ul>
           </div>
         </div>
